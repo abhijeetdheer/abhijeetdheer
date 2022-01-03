@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhijeetdheer
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Cybersecurity based project.
-- My art page - @apricus_._ 
+- 👀 I’m interested in learning, sketching and theology.
+- 🌱 I’m currently learning Blockchain Development (Hyperleadger Fabric).
+- 💞️ I’m looking to collaborate on Blockchain Application Ddevelopment Project.
+
 
 <!---
 abhijeetdheer/abhijeetdheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
