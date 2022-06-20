@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijeetdheer
 - 👀 I’m interested in learning, sketching and theology.
 - 🌱 I’m currently learning Blockchain Development (Hyperleadger Fabric).
-- 💞️ I’m looking to collaborate on Blockchain Application Ddevelopment Project.
+- 💞️ I’m looking to collaborate on Blockchain Application Development Project.
 
 
 <!---
